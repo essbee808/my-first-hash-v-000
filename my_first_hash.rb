@@ -1,8 +1,5 @@
 def my_hash
-  my_hash = {
-    favorite_color => "purple"
-  }
-  my_hash["my_name"] = "Sheena"
+  
 end
 
 
