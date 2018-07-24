@@ -1,9 +1,5 @@
 def my_hash
-  your_hash = {
-    name => "Sheena"
-
-  }
-  puts your_hash
+  hash = Hash.new
 end
 
 
