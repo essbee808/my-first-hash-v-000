@@ -1,5 +1,7 @@
 def my_hash
-  hash = Hash.new
+  your_hash = {
+    "my_name" => "Sheena"
+  }
 end
 
 def shipping_manifest
