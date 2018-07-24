@@ -1,7 +1,6 @@
 def my_hash
-  my_hash = {
-    my_name => "Sheena"
-  }
+  my_hash = {}
+  
 end
 
 
