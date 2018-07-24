@@ -3,6 +3,7 @@ def my_hash
     my_name => "Sheena"
     my_hometown => "Honolulu"
   }
+  puts your_hash
 end
 
 
