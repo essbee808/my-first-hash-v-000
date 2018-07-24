@@ -1,7 +1,7 @@
 def my_hash
   your_hash = {
     my_name => "Sheena"
-    my_hometown => "Honolulu"
+
   }
   puts your_hash
 end
